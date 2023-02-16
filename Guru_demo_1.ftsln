@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Guru_demo", "Guru_demo\Test.tsp", "FA8DC5E2-DB1A-492C-86F6-3FE040D662CB"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\GSRILAXM\Documents\Unified Functional Testing\Guru_demo\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		FA8DC5E2-DB1A-492C-86F6-3FE040D662CB.Debug|Any CPU.Build.0 = Debug|Any CPU
+		FA8DC5E2-DB1A-492C-86F6-3FE040D662CB.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		FA8DC5E2-DB1A-492C-86F6-3FE040D662CB.Release|Any CPU.Build.0 = Release|Any CPU
+		FA8DC5E2-DB1A-492C-86F6-3FE040D662CB.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

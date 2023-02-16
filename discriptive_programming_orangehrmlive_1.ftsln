@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "discriptive_programming_orangehrmlive", "discriptive_programming_orangehrmlive\Test.tsp", "932E680D-87EF-4723-A0D4-FB5B3708F9B1"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\GSRILAXM\Documents\Unified Functional Testing\discriptive_programming_orangehrmlive\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		932E680D-87EF-4723-A0D4-FB5B3708F9B1.Debug|Any CPU.Build.0 = Debug|Any CPU
+		932E680D-87EF-4723-A0D4-FB5B3708F9B1.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		932E680D-87EF-4723-A0D4-FB5B3708F9B1.Release|Any CPU.Build.0 = Release|Any CPU
+		932E680D-87EF-4723-A0D4-FB5B3708F9B1.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
